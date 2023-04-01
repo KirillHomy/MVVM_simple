@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
 
     // MARK: - Private variables
     private var viewModel = ViewModel()
